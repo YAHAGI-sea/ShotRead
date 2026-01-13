@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#2C5282" />
+  <!-- Book Pages / Speed Lines -->
+  <path d="M20 30 L80 30" stroke="white" stroke-width="8" stroke-linecap="round" />
+  <path d="M20 50 L60 50" stroke="#90CDF4" stroke-width="8" stroke-linecap="round" />
+  <path d="M20 70 L70 70" stroke="#63B3ED" stroke-width="8" stroke-linecap="round" />
+  <!-- Motion Blur Edge -->
+  <circle cx="85" cy="50" r="5" fill="#BEE3F8" />
+</svg>
