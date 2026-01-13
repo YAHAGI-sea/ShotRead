@@ -4,6 +4,8 @@
 
 **ShotRead** (formerly SOKUDO-KUN) is an instant speed reader web application designed to help you consume text efficiently. By breaking down text into manageable chunks and displaying them sequentially at adjustable speeds, ShotRead minimizes eye movement and improves reading speed.
 
+[**Live Demo**](https://yahagi-sea.github.io/ShotRead/)
+
 ![ShotRead Screenshot](https://via.placeholder.com/800x400?text=ShotRead+Screenshot+Placeholder)
 
 ## Features
